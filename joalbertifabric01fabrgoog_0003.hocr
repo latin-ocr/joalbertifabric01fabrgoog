@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joalbertifabric01fabrgoog_0003.png"; bbox 0 0 963 1338; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 332 0 818 40">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 332 0 818 40">
+     <span class='ocr_line' id='line_1_1' title="bbox 332 0 818 40; baseline 0 1298"><span class='ocrx_word' id='word_1_1' title='bbox 332 0 818 40; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 286 26 295 48">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 286 26 295 48">
+     <span class='ocr_line' id='line_1_2' title="bbox 286 26 295 48; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 286 26 295 48; x_wconf 58' lang='grc' dir='ltr'>ἱ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 13 46 524 85">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 13 46 524 85">
+     <span class='ocr_line' id='line_1_3' title="bbox 13 46 524 85; baseline -0.055 -10"><span class='ocrx_word' id='word_1_3' title='bbox 13 48 120 83; x_wconf 83' lang='lat' dir='ltr'>Arbury</span> <span class='ocrx_word' id='word_1_4' title='bbox 141 49 257 85; x_wconf 78' lang='lat' dir='ltr'>Libr&#39;ary,</span> <span class='ocrx_word' id='word_1_5' title='bbox 285 50 291 63; x_wconf 64' lang='lat' dir='ltr'><strong>f</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 310 51 322 59; x_wconf 62' lang='lat'>¹2¹</span> <span class='ocrx_word' id='word_1_7' title='bbox 437 51 451 56; x_wconf 39' lang='lat'>4.</span> <span class='ocrx_word' id='word_1_8' title='bbox 476 50 492 55; x_wconf 19' lang='grc' dir='ltr'>Α,</span> <span class='ocrx_word' id='word_1_9' title='bbox 522 46 524 48; x_wconf 78' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
